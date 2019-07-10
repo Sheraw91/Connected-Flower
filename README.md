@@ -11,7 +11,7 @@
 
 It is a school project designed over a year. The subject being imposed on us, here is what we did. The members of the group are : <br>
 &nbsp;&nbsp; - GRELET Théo alias @Sheraw91 (https://github.com/Sheraw91) <br />
-&nbsp;&nbsp; - JEAN-CHARLES Dany<br />
+&nbsp;&nbsp; - JEAN-CHARLES Dany alias @Weder77 (https://github.com/Weder77)<br />
 &nbsp;&nbsp; - LECLERC Loris (Leave on April 2nd)<br />
 &nbsp;&nbsp; - RAMOS LAGE Clément (Arrived on June 4th) alias @MENT3 (https://github.com/MENT3)<br />
 &nbsp;&nbsp; - DE WEERD Damien (Arrived on June 14th) <br />
